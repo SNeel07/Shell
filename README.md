@@ -1,4 +1,4 @@
-#SHELL/TERMINAL
+<h2>SHELL/TERMINAL</h2>
 
 <p>This project is a basic version of building our own shell from scratch. It doesn't include any fancy features/extensions in it.</p>
 <p>Rather I just learned C and decided to make this project as to implement what I learnt.</p>
